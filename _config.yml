@@ -1,4 +1,16 @@
-title: Jibin Kaitharath Baby
+title: <p align="center"> Jibin Kaitharath Baby </p>
 logo: /assets/img/jibin.jpg
-description: Currently working as a Software Engineer at Oracle
-#theme: jekyll-theme-minimal
+
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/jibinkaitharath/">LinkedIn</a> |
+  <a href="https://github.com/jibinkaitharath">GitHub</a>
+  
+  <br>   
+  I am working as a Software Engineer at Oracle in ERP Systems using java and ML to solve complex problems.  
+  Previously worked at IBS Software in Cargo management domain using microservices in iCargo, the premier product of Cargo management by the company.
+  Having nearly 4 years of experience in the industry, have a passion to learn new things and aspire to transition to a Machine Learning Role
+  <br>
+  </p>
+theme: jekyll-theme-minimal
