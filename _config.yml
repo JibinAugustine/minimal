@@ -1,5 +1,5 @@
 title: <p align="center"> Jibin Kaitharath Baby </p>
-logo:  <p align="center">/assets/img/jibin_resized.jpg</p>
+logo:  <div align="center">/assets/img/jibin_resized.jpg</div>
 
 description:
   <p align="center">
@@ -8,7 +8,7 @@ description:
   <a href="https://github.com/jibinkaitharath">GitHub</a>
   
   <br>   
-  I am working as a Software Engineer at Oracle in ERP Systems.
+  I am working as a Software Engineer at Oracle in ERP Systems.changed
   Previously worked at IBS Software in Cargo management using microservices 
   Having nearly 4 years of experience in the industry, have a passion to learn new things and aspire to transition to a Machine Learning Role.
   <br>
