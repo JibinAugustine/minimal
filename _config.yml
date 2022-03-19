@@ -5,10 +5,11 @@ description:
   <a href="pdf/resume.pdf">Resume</a> |
   <a href="https://www.linkedin.com/in/jibinkaitharath/">LinkedIn</a> |
   <a href="https://github.com/jibinkaitharath">GitHub</a>
-  <br>   
-  Currently working as a Software Engineer at Oracle.
+  <br><p  style="font-size: 10px">   
+  Currently working as a Software Engineer at Oracle.sty;
   Previously worked at IBS Software in Cargo management 
   Having nearly 4 years of experience in the industry, have a passion to learn new things and aspire to be a Machine Learning Engineer.
+  </p>
   <br>
   </p>
 theme: jekyll-theme-minimal
