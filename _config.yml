@@ -1,6 +1,6 @@
 title: <p align="center"> Jibin Kaitharath Baby </p>
-logo:  <div align="center">/assets/img/jibin_resized.jpg</div>
-
+#  <div align="center">/assets/img/jibin_resized.jpg</div>
+logo: <img src="/assets/img/jibin_resized.jpg" alt="Jibin Picture" align="middle">
 description:
   <p align="center">
   <a href="pdf/resume.pdf">Resume</a> |
