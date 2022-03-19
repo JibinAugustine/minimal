@@ -1,6 +1,5 @@
 title: <p align="center"> Jibin Kaitharath Baby </p>
-#  <div align="center">/assets/img/jibin_resized.jpg</div>
-logo: <img src="/assets/img/jibin_resized.jpg" alt="Jibin Picture" align="middle">
+logo: /assets/img/jibin_resized.jpg
 description:
   <p align="center">
   <a href="pdf/resume.pdf">Resume</a> |
@@ -10,7 +9,7 @@ description:
   <br>   
   I am working as a Software Engineer at Oracle in ERP Systems.changed again
   Previously worked at IBS Software in Cargo management using microservices 
-  Having nearly 4 years of experience in the industry, have a passion to learn new things and aspire to transition to a Machine Learning Role.
+  Having nearly 4 years of experience in the industry, have a passion to learn new things and aspire to be a Machine Learning Engineer.
   <br>
   </p>
 theme: jekyll-theme-minimal
